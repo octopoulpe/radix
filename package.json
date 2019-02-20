@@ -1,0 +1,31 @@
+{
+  "name": "aalis",
+  "version": "0.0.2",
+  "description": "a game",
+  "repository": {
+    "type": "git",
+    "url": "https://."
+  },
+  "author": "poulpe",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "envify": "^4.1.0",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "merge-stream": "^1.0.0",
+    "stringify": "^5.1.0",
+    "uuid": "^3.3.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vue": "^2.5.17",
+    "vueify": "^9.4.1",
+    "vuetify": "^1.4.4",
+    "vuex": "^3.1.0",
+    "watchify": "^3.7.0",
+    "webgl-obj-loader": "^1.1.3"
+  }
+}
